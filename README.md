@@ -1,0 +1,2 @@
+# DioDocsShapeTextAlignmentDirection
+図形のテキストの配置と方向を設定する
